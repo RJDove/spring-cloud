@@ -1,0 +1,26 @@
+server:
+  port: 8001
+
+spring:
+  application:
+    name: springCloud-dept
+  sleuth:
+    sampler:
+      percentage: 1
+  zipkin:
+    base-url: http://localhost:9005
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka-7001:7001/eureka #,http://eureka-7002:7002/eureka,http://eureka-7003:7003/eureka
+  #自定义eureka 控制台
+  instance:
+    instance-id: springCloud-dept-8001-hystrix   #别名 (hystrix后缀表示该微服务加入熔断器机制)
+    prefer-ip-address: true #显示ip
+
+info:
+  app.name: rj-springCloud-demo
+  company.name: ebiz
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+

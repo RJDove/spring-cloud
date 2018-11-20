@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-Config-9003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-configclient-9004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-consumer-80" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-consumer-feign-8004" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-eureka-7001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-eureka-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-hystrix-dashboard-9001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-sleuth-9005" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloudApi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloudProvider-8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloudProvider-8003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloudprovider-dept-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/srpingColud-zuul-9002" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

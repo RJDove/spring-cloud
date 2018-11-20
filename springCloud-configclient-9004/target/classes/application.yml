@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: springCloud-config-9004
+server:
+  port: 9004

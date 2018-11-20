@@ -1,0 +1,9 @@
+server:
+  port: 9005
+spring:
+  application:
+    name: sleuth-9005
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka-7001:7001/eureka

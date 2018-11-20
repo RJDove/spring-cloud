@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: application  #github上读取的资源名称 注意没有.yml后缀
+      profile: dev
+      label: master
+      uri: http://localhost:9003

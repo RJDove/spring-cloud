@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springCloud-Config-9003" />
+        <module name="springCloud-configclient-9004" />
+        <module name="springCloud-consumer-80" />
+        <module name="springCloud-consumer-feign-8004" />
+        <module name="springCloud-eureka-7001" />
+        <module name="springCloud-eureka-7002" />
+        <module name="springCloud-eureka-7003" />
+        <module name="springCloud-hystrix-dashboard-9001" />
+        <module name="springCloud-provider-80" />
+        <module name="springCloud-sleuth-9005" />
+        <module name="springCloudApi" />
+        <module name="springCloudProvider-8002" />
+        <module name="springCloudProvider-8003" />
+        <module name="springCloudprovider-dept-8001" />
+        <module name="srpingColud-zuul-9002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="SpringCloud" target="1.8" />
+      <module name="springCloud-Config-9003" target="1.8" />
+      <module name="springCloud-configclient-9004" target="1.8" />
+      <module name="springCloud-consumer-80" target="1.8" />
+      <module name="springCloud-consumer-feign-8004" target="1.8" />
+      <module name="springCloud-eureka-7001" target="1.8" />
+      <module name="springCloud-eureka-7002" target="1.8" />
+      <module name="springCloud-eureka-7003" target="1.8" />
+      <module name="springCloud-hystrix-dashboard-9001" target="1.8" />
+      <module name="springCloud-provider-80" target="1.8" />
+      <module name="springCloud-provider-dept-" target="1.8" />
+      <module name="springCloud-sleuth-9005" target="1.8" />
+      <module name="springCloudApi" target="1.8" />
+      <module name="springCloudProvider-8002" target="1.8" />
+      <module name="springCloudProvider-8003" target="1.8" />
+      <module name="springCloudprovider-dept-8001" target="1.8" />
+      <module name="srpingColud-zuul-9002" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
